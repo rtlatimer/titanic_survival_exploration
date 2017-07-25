@@ -1,6 +1,14 @@
 # Machine Learning Engineer Nanodegree
-## Introduction and Foundations
-## Project: Titanic Survival Exploration
+# Introduction and Foundations
+### Project: Titanic Survival Exploration
+by Robert Latimer
+July 25, 2017
+
+### Description
+
+The goal of this project is to learn the fundamentals of Pandas, Numpy, Scikit-Learn, and matplotlib while exploring Titanic passenger data. In this project we will investigate data on Titanic passengers and try to build an algorithm that can accurately predict whether a passenger lived or died.
+
+See full detail of the project [here](https://github.com/rtlatimer/titanic_survival_exploration/blob/master/titanic_survival_exploration.ipynb).
 
 ### Install
 
@@ -13,21 +21,19 @@ This project requires **Python 2.7** and the following Python libraries installe
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
-If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.
-
 ### Code
 
-Template code is provided in the notebook `titanic_survival_exploration.ipynb` notebook file. Additional supporting code can be found in `visuals.py`. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
+All original code was completed in the `titanic_survival_exploration.ipynb` file. Additional supporting code can be found in `visuals.py`.
 
 ### Run
 
 In a terminal or command window, navigate to the top-level project directory `titanic_survival_exploration/` (that contains this README) and run one of the following commands:
 
-```bash
+```
 jupyter notebook titanic_survival_exploration.ipynb
 ```
 or
-```bash
+```
 ipython notebook titanic_survival_exploration.ipynb
 ```
 
